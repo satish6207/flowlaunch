@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 In the project directory, you can run:
 
@@ -29,3 +30,7 @@ You may also see any lint errors in the console.
 
 - Axios
 
+=======
+# flowlaunch
+Developed for flowLaunch Assignment Task
+>>>>>>> origin/main
